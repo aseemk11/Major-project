@@ -1,5 +1,0 @@
-data/raw/
-data/processed/
-models/
-*.pkl
-__pycache__/
