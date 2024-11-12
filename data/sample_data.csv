@@ -1,0 +1,11 @@
+transaction_id,transaction_amount,account_age,transaction_type,location,risk_score,is_fraud
+1,250.50,365,debit,NY,0.05,0
+2,10000.00,180,credit,CA,0.90,1
+3,450.00,730,debit,TX,0.15,0
+4,1200.00,150,debit,NY,0.30,0
+5,7800.00,200,credit,CA,0.85,1
+6,150.75,400,debit,TX,0.02,0
+7,640.00,600,credit,NY,0.20,0
+8,50.00,50,debit,CA,0.01,0
+9,6700.00,90,credit,TX,0.80,1
+10,300.00,365,debit,NY,0.10,0

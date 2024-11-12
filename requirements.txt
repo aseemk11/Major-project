@@ -1,0 +1,12 @@
+
+#### **5. `requirements.txt`**
+
+List of dependencies:
+
+```plaintext
+pandas
+scikit-learn
+shap
+lime
+joblib
+matplotlib
